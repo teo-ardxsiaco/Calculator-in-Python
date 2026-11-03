@@ -1,2 +1,2 @@
 # Calculator-in-Python
-As simple as the name suggest.
+As simple as the name suggest, GUI with tkinter.
